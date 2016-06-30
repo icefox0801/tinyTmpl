@@ -1,0 +1,24 @@
+{
+  "name": "tiny-tmpl",
+  "version": "1.0.0",
+  "description": "A tiny template engine written with just dozens of lines",
+  "main": "tinyTmpl.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/icefox0801/tinyTmpl.git"
+  },
+  "keywords": [
+    "template",
+    "engine",
+    "tiny"
+  ],
+  "author": "icefox0801 <icefox0801@hotmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/icefox0801/tinyTmpl/issues"
+  },
+  "homepage": "https://github.com/icefox0801/tinyTmpl#readme"
+}
