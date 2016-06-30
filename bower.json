@@ -1,0 +1,22 @@
+{
+  "name": "tiny-tmpl",
+  "description": "A tiny template engine written with just dozens of lines",
+  "main": "tinyTmpl.js",
+  "authors": [
+    "icefox0801 <icefox0801@hotmail.com>"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "template",
+    "engine",
+    "tiny"
+  ],
+  "homepage": "https://github.com/icefox0801/tinyTmpl",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
